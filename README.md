@@ -6,6 +6,7 @@
 _Telephone: 0346385112
 _Facebook :
 shanny rahajarasony
+_Email : rahajarasony47@gmail.com
 
 <!---
 shanny-lala/shanny-lala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
