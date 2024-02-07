@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shanny-lala
 - 👀 I’m interested in software engineering and system and network administration
-- 🌱 I am currently learning in the national computer science school (ENI) in Fianarantsoa Madagascar
+- 🌱 I am currently learning at Ecole Nationale d'informatique (ENI) in Fianarantsoa Madagascar
 - 💞️ I’m looking to collaborate on computer companies to do internships for personal development in the field of computer science
 - 📫 How to reach me:
 _Telephone: 0346385112
